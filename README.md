@@ -1,6 +1,7 @@
 Arcade infinitive game 
 
 HOW TO USE
+
     1) copy file 'main.py'
         1.1) add it in VSC
         1.2) open and read
